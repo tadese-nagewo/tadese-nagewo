@@ -1,1 +1,13 @@
-
+<DOCKTYPE html>
+    <html>
+        <body>
+            <h1>bifoota</h1>
+            <div>
+                <input type="color"id="head"name="head"value="#e66465"/>bifa dhugaa 
+            <div>
+                <input type="color"id="body"name="body"value="#f6673c"/>
+                <label for ="body">bifa2</label>
+            </div>
+        
+        </body>
+    </html>
