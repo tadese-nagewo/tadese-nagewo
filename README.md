@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<DOCKTYPE html>
+<html>
+  <body>
+    <input type="text">
+  </body>
+</html>
