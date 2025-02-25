@@ -1,5 +1,5 @@
 ## Hi there 👋
-[tadese-nagewo](keyupApp)  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[tadese-nagewo](https://github.com/KeyupApp/Odaa.git/)  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
